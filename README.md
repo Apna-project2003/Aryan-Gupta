@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Apna-project2003/Apna-project2003/blob/main/banner.jpg?raw=true" alt="Aryan Gupta - MERN Stack Developer & Data Analyst" width="100%" style="border-radius: 15px;"/>
+<img src="https://github.com/Apna-project2003/Aryan-Gupta/blob/main/banner.png?raw=true" alt="Aryan Gupta - MERN Stack Developer & Data Analyst" width="100%" style="border-radius: 15px;"/>
 
 <h1>Hi 👋, I'm Aryan Gupta</h1>
 
